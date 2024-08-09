@@ -12,25 +12,25 @@
 </head>
 <body>
     <header class="cabecalho">
-        <img class="cabecalho-imagem" src="14.png" alt="logo da alura start">
+        <img class="cabecalho-imagem" src="agrinho.png" alt="logo da alura start">
         <ul class="cabecalho-lista">
-            <li class="cabecalho-lista-item">Escola</li>
-            <li class="cabecalho-lista-item">Estudante</li>
+            <li class="cabecalho-lista-item">Agrinho</li>
+            <li class="cabecalho-lista-item">Do campo a cidade colhendo oportunidades</li>
         </ul>
     </header>
     <section class="escola">
         <div class="escola-div-conteudo">
             <h2 class="escola-titulo">Sobre a Escola</h2>
-            <p class="escola-texto-um">O Colégio Estradual 14 de Dezembro foi fundado em 1973 na cidade de Peabiru com cerca de 13.346 habitantes.</p>
-            <p class="escola-texto-dois">A turma do 2B é unida e parceira, trabalhamos com programação com o professor Walter.</p>
+            <p class="escola-texto-um">O Agrinho é um programa educacional organizado e conduzido pelo Serviço Nacional de Aprendizagem Rural/Paraná, cujas atividades tiveram início no ano de 1996.</p>
+            <p class="escola-texto-dois"></p>
         </div>
     </section>
     <section class="estudante">
-        <h2 class="estudante-titulo">Quem são nossos estudantes?</h2>
+        <h2 class="estudante-titulo">feira do produtor</h2>
         <div class="estudante-todos">
         <span></span>
         <div class="estudante-div">
-            <img class="estudante-imagem" src="jão.jpg" alt="foto do João">
+            <img class="estudante-imagem" src="feira.jpg" alt="foto do João">
             <h3 class="estudante-nome">João Pedro</h3>
             <a href="https://github.com/marcelopaludetto"><img class="estudante-icone" src="github.png" alt="icone github"></a>
             <a href="https://www.instagram.com/jp__peron?igsh=NXdsZmw0YW03dWZ3"><img class="estudante-icone" src="instagram (1).png" alt="icone linkedin"></a>
